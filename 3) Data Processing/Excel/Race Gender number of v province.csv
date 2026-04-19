@@ -1,0 +1,109 @@
+RACE,Province,numbers_of_viewers,GENDER
+None,None,7000000,None
+black,Gauteng,6610000,male
+coloured,Western Cape,3870000,male
+white,Gauteng,3150000,male
+indian_asian,Gauteng,3030000,male
+ , ,2180000, 
+black,Mpumalanga,2150000,male
+black,Kwazulu Natal,1770000,male
+indian_asian,Limpopo,1500000,male
+black,Limpopo,1340000,male
+indian_asian,Kwazulu Natal,1340000,male
+None,Gauteng,1210000,male
+black,Gauteng,1150000,female
+None,Western Cape,950000,male
+black,Western Cape,950000,male
+white,Western Cape,900000,male
+black,North West,860000,male
+black,Eastern Cape,830000,male
+coloured,Gauteng,780000,male
+white,Mpumalanga,710000,male
+coloured,Eastern Cape,630000,male
+black,Free State,530000,male
+white,Eastern Cape,510000,male
+white,Kwazulu Natal,480000,male
+indian_asian,Mpumalanga,430000,male
+black,Mpumalanga,380000,female
+white,Gauteng,370000,female
+white,North West,330000,male
+white,Free State,330000,male
+coloured,Western Cape,300000,female
+indian_asian,Western Cape,300000,male
+black,Kwazulu Natal,290000,female
+indian_asian,Eastern Cape,290000,male
+None,Mpumalanga,280000,male
+None,Kwazulu Natal,270000,male
+black,Northern Cape,260000,male
+white,Limpopo,250000,male
+coloured,Kwazulu Natal,240000,male
+None,Gauteng,240000,female
+black,Limpopo,240000,female
+coloured,Northern Cape,230000,male
+black,Eastern Cape,220000,female
+indian_asian,Gauteng,180000,female
+other,Western Cape,170000,male
+black,Western Cape,160000,female
+indian_asian,Free State,150000,male
+coloured,Gauteng,150000,female
+black,Free State,150000,female
+indian_asian,Kwazulu Natal,150000,female
+None,Limpopo,150000,male
+None,Eastern Cape,140000,male
+black,North West,140000,female
+white,Western Cape,140000,female
+other,Gauteng,130000,male
+coloured,Mpumalanga,130000,male
+None,Free State,130000,male
+white,Northern Cape,130000,male
+coloured,Free State,120000,male
+indian_asian,North West,110000,male
+None,Western Cape,90000,female
+coloured,Limpopo,80000,male
+black,Northern Cape,80000,female
+other,Kwazulu Natal,70000,male
+None,North West,70000,male
+white,Free State,70000,female
+white,Kwazulu Natal,60000,female
+coloured,Eastern Cape,60000,female
+white,Eastern Cape,60000,female
+coloured,Northern Cape,50000,female
+indian_asian,Western Cape,50000,female
+coloured,Kwazulu Natal,50000,female
+None,Free State,50000,female
+white,Limpopo,50000,female
+None,Eastern Cape,40000,female
+coloured,Mpumalanga,40000,female
+None,Kwazulu Natal,40000,female
+None,Northern Cape,40000,male
+indian_asian,Mpumalanga,40000,female
+indian_asian,Northern Cape,40000,male
+coloured,North West,40000,male
+ ,Gauteng,30000,male
+ ,Eastern Cape,30000,male
+white,North West,30000,female
+other,Eastern Cape,30000,male
+None,Mpumalanga,30000,female
+white,Northern Cape,20000,female
+other,Limpopo,20000,male
+indian_asian,Limpopo,20000,female
+other,Limpopo,20000,female
+indian_asian,North West,20000,female
+coloured,Free State,20000,female
+indian_asian,Eastern Cape,20000,female
+ ,Kwazulu Natal,20000,male
+other,Western Cape,20000,female
+None,Northern Cape,10000,female
+other,Kwazulu Natal,10000,female
+None,None,10000,male
+ ,Kwazulu Natal,10000,female
+ ,Eastern Cape,10000,female
+indian_asian,None,10000,None
+white,Mpumalanga,10000,female
+ ,Gauteng,10000,female
+None,Limpopo,10000,female
+ ,Western Cape,10000,male
+ ,Mpumalanga,10000,male
+None,Kwazulu Natal,10000,None
+other,Free State,10000,male
+None,North West,10000,female
